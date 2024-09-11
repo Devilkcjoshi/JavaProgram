@@ -24,5 +24,6 @@ public class FibonacciSeries {
         System.out.print("Enter in how many terms you want to print the fibonacci series :- ");
         term = sc.nextInt();
         fibSeries(a,b,term);
+        sc.close();
     }
 }
