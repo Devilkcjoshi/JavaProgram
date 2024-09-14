@@ -8,7 +8,7 @@ import java.util.Scanner;
         4  3  2  1
         5  4  3  2  1
  */
-public class NumberPattern {
+public class NumberPattern2 {
     public static void pattern(int n){
         for(int i=0; i<=(n-1); i++){
             for(int j=0; j<=i; j++){
